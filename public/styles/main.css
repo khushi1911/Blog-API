@@ -16,15 +16,15 @@ a {
 }
 
 body {
-  background-color: #f7f9fc;
-  color: #333;
+  background-color: #AEE2FF;
+  color: black;
   line-height: 1.6;
 }
 
 .container {
   max-width: 800px;
   margin: 50px auto;
-  background-color: #fff;
+  background-color: #D9F9DF;
   padding: 20px 40px;
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -33,7 +33,7 @@ body {
 h1 {
   font-size: 2.5em;
   margin-bottom: 20px;
-  color: #444;
+  color: black;
 }
 
 h2 {
@@ -67,13 +67,13 @@ textarea {
 
 input:focus,
 textarea:focus {
-  border-color: #007bff;
+  border-color: #9FA1FF;
 }
 
 a,
 button {
   text-decoration: none;
-  background-color: #007bff;
+  background-color: #9FA1FF;
   color: #fff;
   padding: 10px;
   font-size: 1em;
@@ -91,7 +91,7 @@ button.full-width {
 
 a,
 button:hover {
-  background-color: #0056b3;
+  background-color: #9FA1FF;
 }
 
 ul {
@@ -108,21 +108,21 @@ li:last-child {
 }
 
 a.edit {
-  background-color: #007bff;
+  background-color: #9FA1FF;
   /* margin-right: 10px; */
 }
 
 a.delete {
-  background-color: #e74c3c;
+  background-color: #A77F60;
 }
 
 a.delete:hover {
-  background-color: #c0392b;
+  background-color: #A77F60;
 }
 
 #newPostBtn {
   margin: 20px 0;
-  background-color: #2ecc71;
+  background-color: #659287;
   padding: 10px 15px;
   font-size: 1em;
   border-radius: 4px;
@@ -135,5 +135,5 @@ a.delete:hover {
 }
 
 #newPostBtn:hover {
-  background-color: #27ae60;
+  background-color: #659287;
 }
